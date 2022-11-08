@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 
 env:
-  SELF_HOSTED_RUNNER: true
+  SELF_HOSTED_RUNNER: false
 
 jobs:
   build:
